@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+
+body{
+    background-image: linear-gradient(to bottom, #95724a, #cf6406, #3c2412 );
+}
+h1{
+    color: #5b2a05;
+    font-family: 'myfont', Times, serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;   
+}
+h2{
+    font-family: 'myfont', Times, serif;
+    font-size: medium;
+    font-weight: 500px;
+}
+p{
+    text-indent: 10px;
+    text-align: justify;
+}
+img{
+    text-align: center;
+}
